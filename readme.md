@@ -29,5 +29,3 @@ I architect and implement Web3 features for products, with deep expertise in:
 ## Let's Build
 
 If you're looking to add Web3 features to your product — wallets, on-chain data, smart accounts, or protocol integrations — let's talk.
-
-[![Twitter](https://img.shields.io/badge/@FloB__Safe-000?style=flat&logo=x)](https://twitter.com/FloB_Safe)
